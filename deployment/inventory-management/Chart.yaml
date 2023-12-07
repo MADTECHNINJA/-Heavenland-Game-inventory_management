@@ -1,0 +1,9 @@
+apiVersion: v2
+name: inventory_management
+description: A Helm chart for Kubernetes to deploy inventory management for Heavenland
+
+type: application
+
+version: 0.1.0
+
+appVersion: '1.16.0'
